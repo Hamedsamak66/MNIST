@@ -13,3 +13,15 @@
 6    MinMaxScaler           NeuralNetwork    0.9737
 
 7    MinMaxScaler                     CNN    0.9869
+
+
+**with Hyperparameter Tuning heuristic algorithm
+**
+
+Logistic Regression Accuracy: 0.9205
+
+Random Forest Accuracy: 0.9647
+
+SVM Accuracy: 0.9788
+
+Optimized NN Accuracy: 0.9737
